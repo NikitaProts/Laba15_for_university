@@ -1,0 +1,20 @@
+footer{
+    bottom: 0;
+}
+/* main{
+    min-height: 50vw;
+} */
+
+.page-footer {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+   
+}
+
+.footer-item:hover {
+    transition: 0.4s;
+    transform: scale(1.5);
+}
+hr {
+    border: 2px;
+}

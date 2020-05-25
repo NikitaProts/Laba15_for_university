@@ -1,0 +1,15 @@
+.main-box-2{
+    height: auto;
+}
+
+.main-box-3 {
+    height: auto;
+    background-color: turquoise;
+}
+.kek a:hover {
+    background-color:#28a745;
+    color: white;
+    font-size: 20px;
+    transform: scale(1.1);
+    transition: 0.4s;
+}

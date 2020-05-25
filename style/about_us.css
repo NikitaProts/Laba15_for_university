@@ -1,0 +1,27 @@
+.list-group a:hover{
+    background-color: #28a745;
+    color: #f8f9fa;
+    transition: 0.3s;
+}
+
+.h5-card-body:hover {
+    background-color: #28a745;
+    transition: 0.3s;
+    color: #f8f9fa;
+
+}
+.p-card-about-us{
+    font-size: 20px;
+}
+
+.fas{
+    color: crimson;
+}
+.fas:hover{
+    transition: 0.3s;
+    transform: scale(1.5);
+    color: #28a745;
+}
+
+
+
